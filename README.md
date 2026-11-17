@@ -19,7 +19,7 @@
 
 This turnkey software asset is currently listed for direct acquisition (**100% IP ownership transfer**, zero recurring server costs, documented source code included):
 
-👉 **[View Official Portfolio & Make an Offer on SideProjectors](https://sideprojectors.com)**
+👉 **[View Official Portfolio & Make an Offer on SideProjectors](https://www.sideprojectors.com/project/110958/tokenshield-ai)**
 
 *All transactions and source code handovers are secured strictly via **Escrow.com**.*
 
